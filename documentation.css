@@ -1,0 +1,14 @@
+body{
+	background-color: black;
+	background-size: cover;
+	font-family: "Helvetica"; 
+}
+
+.Textation{
+	text-align: center; 
+	font-size: 15px;
+ 	width: 50%;
+ 	margin: 10px auto;
+ 	color:white;
+ 	text-shadow: black;
+}
