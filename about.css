@@ -1,0 +1,39 @@
+body{
+	background-image: url("pulp.jpg");
+	height: 1100px;
+	background-position: center;  
+  background-repeat: no-repeat; 
+  /*background-attachment: fixed;*/
+  background-size: cover; 
+  font-family: "Helvetica";
+}
+
+
+.Textdetail{
+
+ 	text-align: center;
+ 	font-size: 15px;
+ 	width: 50%;
+ 	margin: 10px auto;
+ 	color:white;
+ 	text-shadow: black;
+ 	
+ 	
+}
+ }
+ h1{
+ 	color: black;
+ }
+ h2{
+ 	color: black;
+ }
+
+ .Link2{
+ 	font-size: 20px;
+ 	color: #8ec3eb;
+ 	margin: 10px;
+ }
+
+ .Link2:hover{
+ 	color: white;
+ }
