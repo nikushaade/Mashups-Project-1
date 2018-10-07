@@ -1,0 +1,67 @@
+body{
+	background-image: url("12.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+h1{
+	color: black;
+	text-align: center;
+	font-size: 25px;
+}
+
+button{
+	display: block;
+	color: black;
+	margin:10px auto;
+	font-size: 15px;
+	padding: 10px;
+}
+
+input{
+	display:block;
+	font-size: 10px;
+	margin:5px auto;
+	width: 300px; 
+}
+
+.results-style{
+ 	display: block;
+ 	margin-left: auto;
+ 	text-align: center;
+ }
+
+ .Link{
+ 	font-size: 20px;
+ 	margin: 5px;
+ 	color: #8F1744;
+ 	margin-right: -100px; 
+ }
+ 
+ .Link1{
+ 	background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+ }
+
+ .Link1:hover{
+ 	color: blue;
+ }
+
+ .results{
+ 	display: block;
+ 	margin-left: auto;
+ }
+
+.button1{
+	display: block;
+	color:black;
+	margin-top:15px;
+	margin-right: 15px; 
+	font-size: 8px;
+	padding: 10px;
+}
